@@ -1,0 +1,2 @@
+This project uses face recognition package of python and opencv to detect face as well as recognize the person whose face it is shown in the picture.
+It can detect multiple faces also. Environment used for this project was google collab notebook please check it out, it is a great environment to work on data science online.
